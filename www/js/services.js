@@ -5,29 +5,12 @@
     .module('starter.services', [])
     .factory('Chats', chartService);
 
-  function chartService() {
+  chartService.$inject=['$firebaseArray', 'firebaseDataService'];
 
-    var chats = [{
-      id: 0,
-      name: 'Ben Sparrow',
-      lastText: 'You on your way?',
-      face: 'img/ben.png'
-    }, {
-      id: 1,
-      name: 'Max Lynx',
-      lastText: 'Hey, it\'s me',
-      face: 'img/max.png'
-    }, {
-      id: 2,
-      name: 'Adam Bradleyson',
-      lastText: 'I should buy a boat',
-      face: 'img/adam.jpg'
-    }, {
-      id: 3,
-      name: 'Perry Governor',
-      lastText: 'Look at my mukluks!',
-      face: 'img/perry.png'
-    }];
+  function chartService($firebaseArray) {
+
+    var ref = new Firebase("https://blinding-inferno-2256.firebaseio.com/employees");
+    var chats = $firebaseArray(ref);
 
     var service = {
       all: all,
@@ -47,7 +30,8 @@
 
     function get(chatId) {
       for (var i = 0; i < chats.length; i++) {
-        if (chats[i].id === parseInt(chatId)) {
+        if (chats[i].$id === chatId) {
+          chats[i].content=chats[i].contents.join('\n');
           return chats[i];
         }
       }

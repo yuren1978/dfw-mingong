@@ -1,0 +1,30 @@
+{
+  "employees":[
+    {"title":"屋檐空调管滴水",
+      "contents":["空调一般有两个出水管，一个是主管，一个是副管。 主管会链接到房子的排水系统，副管会连到屋檐下面,",
+      " 如果副管在滴水，说明主管已经堵塞，需要引起注意. 长期可能会导致空调系统不工作或者漏水. 特别副管长期也堵住的话. 最好的方法是每年清洗,防止堵塞.",
+        "【Jun Zhang & 老米】",
+        "如果堵的不厉害，那么用bleach 或者 liquid plumber",
+        "【J.W. 吸方法】 找到主管的出水口，一般在洗手间的sink 下边,可以用shop-vac 来吸.",
+        "【老米的吹方法】1. 用钻头式小砂轮打光三通管内部，使得侧面直上直下。（三通管多有小短管，先切掉，再打宽）2. 买同样的三通管 3. 找一个短管直径正好插入三通 4. 把管头用刀削园，放在新买来的三通管里试，直到严丝合缝",
+        "5. 黄色橡胶手套剪下中指，捅个小洞以便通气 6. 短管套上手套中指，使得插入后更加严丝合缝 7. 将短管插入。这样就不会有气流向空调交换箱8. 接上用空气压缩机，橡胶手套可以封住空隙，打开空气压缩机"
+      ]},
+    {"title":"水管漏水","contents":["【游子】要用压力表,最怕是foundation leak,hook it to a water outlet. Shutdown all the faucet and toilet. Wait for 10 minutes to see if pressure drops.",
+    "【柏庭】有专门的Leak Detection公司，查一次$350， 一年多前的价格,我有个房子就是leak under slab,当时leak detection 给了两个solution, 1。 dig the slab and repair $1800, will have to damage flooring and they dont fix flooring,2. reroute water lines,$ 2500, 后来自己找另外一个Plumber 砍到$1800, 但是Reroute要 cut 好多drywall",
+      "【Tony】 用水龙头都关了，看水表动不动。每秒一滴以上的水表都会动。1万gal用水怀疑漏看水表足够了。房子外面都一般两个堵下水道的地方,，一个通外，一个通内.下水，用专门的气囊，放到通外的管子，打气密封。室内放水到 那个通内管子满到口。看能不能保持。上水只要随便一个龙头接个压力表，其他龙头都关死，开总阀，再关总阀。看压力表能否保持"
+    ]},
+    {"title":"龙头漏水","contents":["【 Tony】传统的淋浴龙头, 尤其热水龙头, 差不多5年那垫片就老化了 .那只要换垫片可以， 最多换阀芯,自己买个阀芯装上。出水小可能喷头滤网堵了,上图是典型的淋浴水龙头。喷头关不死漏水只要拧开换顶头的 SEATWASHER,典型的淋浴水龙头。喷头关不死漏水只要拧开换顶头的 SEATWASHE",
+    "【Dennis Kang】:garden faucet 一打开 圆形handle附近就滴水，应该怎么修？",
+      "【Tony 大师】康 水龙头的工作原理相同，见上图淋浴水龙头。你这个简单化了而已。是问题2。不用全拆卸。只要拧开顶上螺丝, 卸下圆盘, 再拧开最外面的螺母。去买packing条装回.把手处漏只要填加packing 就行.",
+      "【Tony 大师】绿盘后第一个螺母打开,Packing 不是一般的 washer.小圆圈垫片是平面密封。它这个是轴转动密封。要packing材料才行。Packing 是一种像泥一样的填料, 用于滚动轴的水密。当你装进一般的垫片, 会挤压残留的packing, 就起到密封作用了，时间长短取绝于残留packing的量。你那个水阀加packing都不需要关水闸。用板手固定阀芯不松动,只拧顶端第一个螺母。为防万一, 关了总水阀。热水器就不用去动了。",
+      "【柏庭】 之前我的sillcock也漏水，我问HD小二，他们建议换成quarter turn sillcock, it almost works for life, 这又什么原理？不需要packing washer?",
+      "【Tony 大师】有的sillcock不用packing密封。Packing 密封问题是沿着轴漏水, 其它地方漏水就多半是顶端垫片问题。Sillcock 的结构不同中间的密封圈多。",
+      "【Jun Zhang】垫片老化了。你这个在右边应该是冷水。水池下面冷水进水开关关上，把龙头拆开，可能需要八角螺丝刀，带着老化的垫片去 homedepot或者 hardware store找个大小一样的换上就行了。以前国内都用汽车内胎剪，大小可控"
+    ]},
+    {"title":"空调不停下来/空调不制冷","contents":[ "[Mike】空调到76 度 就 下不去了， 外面风扇 出的风不太热， 会是却少氟利昂的原因吗？ 谢谢！",
+    "[Tony 大师】Mike 专业的当然要把脉才诊断。业余的可以说90%可能你已找到毛病了，病根哪里漏是另一说。如果你能发现漏痕几乎确诊。压缩机不给力的可能性非常小，但不能完全排除]",
+    "【zhiyuan chen】Tony 说的很对！。极少数的情况也可能是metering devise 出问题了。TXV坏了，或者PISTON堵了"
+        
+    ]}
+  ]
+}

@@ -1,3 +1,5 @@
+(function() {
+
 // Ionic Starter App
 
 // angular.module is a global place for creating, registering and retrieving Angular modules
@@ -8,9 +10,7 @@
 angular.module('starter',
   [
     'ionic',
-
     'firebase',
-
     'starter.controllers',
     'starter.services'
   ])
@@ -91,3 +91,4 @@ angular.module('starter',
   $urlRouterProvider.otherwise('/tab/dash');
 
 });
+})();
