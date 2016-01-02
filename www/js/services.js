@@ -9,7 +9,7 @@
 
   function chartService($firebaseArray) {
 
-    var ref = new Firebase("https://blinding-inferno-2256.firebaseio.com/employees");
+    var ref = new Firebase("https://blinding-inferno-2256.firebaseio.com/chats");
     var chats = $firebaseArray(ref);
 
     var service = {

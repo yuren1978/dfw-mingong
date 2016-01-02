@@ -8,7 +8,8 @@
         "【J.W. 吸方法】 找到主管的出水口，一般在洗手间的sink 下边,可以用shop-vac 来吸.",
         "【老米的吹方法】1. 用钻头式小砂轮打光三通管内部，使得侧面直上直下。（三通管多有小短管，先切掉，再打宽）2. 买同样的三通管 3. 找一个短管直径正好插入三通 4. 把管头用刀削园，放在新买来的三通管里试，直到严丝合缝",
         "5. 黄色橡胶手套剪下中指，捅个小洞以便通气 6. 短管套上手套中指，使得插入后更加严丝合缝 7. 将短管插入。这样就不会有气流向空调交换箱8. 接上用空气压缩机，橡胶手套可以封住空隙，打开空气压缩机"
-      ]},
+      ],
+      "images":["img/ac-pipe.png", "img/image00.png"]},
     {"title":"水管漏水","contents":["【游子】要用压力表,最怕是foundation leak,hook it to a water outlet. Shutdown all the faucet and toilet. Wait for 10 minutes to see if pressure drops.",
     "【柏庭】有专门的Leak Detection公司，查一次$350， 一年多前的价格,我有个房子就是leak under slab,当时leak detection 给了两个solution, 1。 dig the slab and repair $1800, will have to damage flooring and they dont fix flooring,2. reroute water lines,$ 2500, 后来自己找另外一个Plumber 砍到$1800, 但是Reroute要 cut 好多drywall",
       "【Tony】 用水龙头都关了，看水表动不动。每秒一滴以上的水表都会动。1万gal用水怀疑漏看水表足够了。房子外面都一般两个堵下水道的地方,，一个通外，一个通内.下水，用专门的气囊，放到通外的管子，打气密封。室内放水到 那个通内管子满到口。看能不能保持。上水只要随便一个龙头接个压力表，其他龙头都关死，开总阀，再关总阀。看压力表能否保持"
@@ -26,7 +27,7 @@
     "【zhiyuan chen】Tony 说的很对！。极少数的情况也可能是metering devise 出问题了。TXV坏了，或者PISTON堵了",
     "【一只无聊的熊 】@Grace 最好的结果，是外面机器的compressor的capacitor坏了，所以外面的风扇还转，较差的结果是哪儿漏了所以制冷剂跑光了，最差的结果是外面的compressor坏了。 ",
     "【Tony 大师】@Grace 最好的结果，只要量一下压缩机有电压, 你自己能做的就是换个电容。解决问题最好, 不行只有请人, 也没浪费多少。"
-        
+
     ]}
   ]
 }

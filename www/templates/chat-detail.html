@@ -9,12 +9,15 @@
     <p>
       {{chat.content}}
     </p>
-    
+
+
      <ion-list>
-      <ion-item class="item-remove-animate item-avatar item-icon-right" ng-repeat="img in images" type="item-text-wrap">
-        <img ng-src="{{img}}" style="width: 64px; height: 64px">
+       display the image list
+      <ion-item class="item-remove-animate item-avatar item-icon-right" ng-repeat="imag in chat.images" type="item-text-wrap">
+        {{imag}}
+        <img ng-src="{{imag}}" style="width: 64px; height: 64px">
       </ion-item>
     </ion-list>
-    
+
   </ion-content>
 </ion-view>
