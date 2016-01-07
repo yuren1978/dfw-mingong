@@ -7,10 +7,10 @@
 
   chartService.$inject=['$firebaseArray', 'firebaseDataService'];
 
-  function chartService($firebaseArray) {
+  function chartService($firebaseArray,firebaseDataService ) {
 
-    var ref = new Firebase("https://blinding-inferno-2256.firebaseio.com/chats");
-    var chats = $firebaseArray(ref);
+    //var ref = new Firebase("https://blinding-inferno-2256.firebaseio.com/chats");
+    var chats = $firebaseArray(firebaseDataService.chats);
 
     var service = {
       all: all,

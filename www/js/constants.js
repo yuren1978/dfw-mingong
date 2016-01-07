@@ -6,6 +6,6 @@
 
   angular
     .module('starter')
-    .constant('FIREBASE_URL', 'https://waitandeat-demo.firebaseio.com/');
+    .constant('FIREBASE_URL', 'https://blinding-inferno-2256.firebaseio.com');
 
 })();

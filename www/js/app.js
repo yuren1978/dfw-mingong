@@ -77,12 +77,12 @@ angular.module('starter',
       }
     })
 
-  .state('tab.account', {
-    url: '/account',
+  .state('tab.contacts', {
+    url: '/contacts',
     views: {
-      'tab-account': {
-        templateUrl: 'templates/tab-account.html',
-        controller: 'AccountCtrl'
+      'tab-contacts': {
+        templateUrl: 'templates/tab-contacts.html',
+        controller: 'ContactsCtrl'
       }
     }
   });
