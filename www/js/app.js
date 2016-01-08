@@ -76,7 +76,6 @@ angular.module('starter',
         }
       }
     })
-
   .state('tab.contacts', {
     url: '/contacts',
     views: {
@@ -85,7 +84,16 @@ angular.module('starter',
         controller: 'ContactsCtrl'
       }
     }
-  });
+  })
+    .state('tab.contact-detail',{
+        url:'contacts/:contactId',
+        views:{
+            'tab-contacts':{
+                templateUrl: 'templates/contact-detail.html',
+                controller: 'ContactDetailCtrl'
+            }
+        }
+    })
 
   // if none of the above states are matched, use this as the fallback
   $urlRouterProvider.otherwise('/tab/dash');

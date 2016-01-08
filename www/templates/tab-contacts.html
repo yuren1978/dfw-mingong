@@ -1,7 +1,10 @@
 <ion-view view-title="Contacts">
-  <ion-content>
+ <ion-content>
     <ion-list>
-    Contact information list
+      <ion-item class="item-remove-animate item-avatar item-icon-right" ng-repeat="contact in contacts" type="item-text-wrap" href="#/tab/contacts/{{contact.$id}}">
+        <h2>{{contact.title}}</h2>
+        <i class="icon ion-chevron-right icon-accessory"></i>
+      </ion-item>
     </ion-list>
   </ion-content>
 </ion-view>

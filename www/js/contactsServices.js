@@ -31,7 +31,7 @@
     function get(chatId) {
       for (var i = 0; i < contacts.length; i++) {
         if (contacts[i].$id === chatId) {
-          contacts[i].content=contacts[i].contents.join('\n');
+          //contacts[i].content=contacts[i].contents.join('\n');
           return contacts[i];
         }
       }
