@@ -6,10 +6,12 @@
 -->
 <ion-view view-title="{{contact.title}}">
   <ion-content class="padding">
-   
+
      <ion-list>
       <ion-item ng-repeat="con in contact.contactList" type="item-text-wrap">
         <h2>{{con.name}}</h2>
+        <div>{{con.phone}}</div>
+        <div>recommended by  {{con.recommended}}</div>
       </ion-item>
     </ion-list>
 
