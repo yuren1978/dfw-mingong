@@ -86,7 +86,7 @@ angular.module('starter',
     }
   })
     .state('tab.contact-detail',{
-        url:'contacts/:contactId',
+        url:'/contacts/:contactId',
         views:{
             'tab-contacts':{
                 templateUrl: 'templates/contact-detail.html',

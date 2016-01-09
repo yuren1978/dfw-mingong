@@ -8,7 +8,9 @@
   <ion-content class="padding">
    
      <ion-list>
-
+      <ion-item ng-repeat="con in contact.contactList" type="item-text-wrap">
+        <h2>{{con.name}}</h2>
+      </ion-item>
     </ion-list>
 
   </ion-content>

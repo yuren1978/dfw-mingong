@@ -49,6 +49,6 @@
     "images":["img/tree_cut.png"]}
   ],
   "contacts":[
-     {"title":"plumber"} 
+     {"title":"plumber", "contactList":[{"name":"A" },{"name":"B"}] }
   ]
 }

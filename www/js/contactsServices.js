@@ -24,14 +24,13 @@
       return contacts;
     }
 
-    function remove(chat) {
-      contacts.splice(contacts.indexOf(chat), 1);
+    function remove(contact) {
+      contacts.splice(contacts.indexOf(contact), 1);
     }
 
-    function get(chatId) {
+    function get(contactId) {
       for (var i = 0; i < contacts.length; i++) {
-        if (contacts[i].$id === chatId) {
-          //contacts[i].content=contacts[i].contents.join('\n');
+        if (contacts[i].$id === contactId) {
           return contacts[i];
         }
       }
