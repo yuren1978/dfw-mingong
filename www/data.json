@@ -44,11 +44,21 @@
     {"title":"天花板出现漏水", "contents":["【Yan Liu 】一楼天花板出现漏水的印记，不清楚什么时候开始的了，测量发现是楼上浴缸的位置……请问应该怎么处理，要把浴缸拆下来修吗？",
     "【Jun Zhang】有几个可能性，一个是浴缸 overflow下水的接口处老化裂开，还有就是浴缸的下水接口，再有就是墙里进水管道或者开关漏，需要一个一个排除。如果马桶跟浴缸在附近，你看一下马桶附近有没有水印，有的话就是马桶的水管或者排水漏。排除先从容易不要拆墙的开始。有 Tony大师在肯定搞得定。我自己有过一样的问题，打开墙顶排查出来的。补好墙顶找到一样的油漆是最大问题。而且是 Orange peel texture, 咋搞都跟原来不一样。如果楼上没有其他房间，一层的房子？可以上到 attic里吗？如果可以进去的话应该直接能看到房顶漏不漏吧。或者在外墙看看，是不是gutter漏水溢出到外墙内了，或者屋顶接口的calking裂开了。"],
     "images":["img/ceiling.png"]},
+    {"title": "墙里的热水管渗水", "contents":[" 【柏庭] 把有渗水的sheet rock破开， 看看哪里漏水，做好标记关总闸, 然后把漏的那一段切下来，换新的，换新的不要用铜管，用 pex,在 home depot lowes 都有 铜管和 pex 的 coupling卖的"]},
     {"title":"正确砍树", "contents":["【崔增林】锯树时被树缴械非常尴尬，若正好没有备用工具，会弄得措手不及。 正确的方法是先在倒下的方向锯三分之一到一半，然后从反向锯直至断。如果是大树，最好有另一人帮忙，要先在尽量高的树枝上系上粗绳，选好倒下的方向，让人远远地拉着。锯树时从倒下方向一侧横着切一个三角形楔子下来，楔子约10-30度，深约树直径的三分之一到一半，以树不倒为准。然后从树倒的反向一侧锯，同时让另一人拉绳，几分钟就会将大树放倒。如果最终需挖除树根，最好留一高树桩，这样挖树根时会有一杠杆作用，便于用力",
     "【Jun Zhang】正确方法是，锯掉树枝，小的到大的顺序，然后树干。为了掌握树枝树干倒向，要在倒下去的方向锯三角口，大概树干的1/3-1/2的距离，然后反方向锯断。如果要保证倒的方向，要绑绳子或者反方向支撑。我自己干掉的一颗树比你的稍微大些，我用了12分的措施保证安全。而且尽量不要上梯子用电锯。我宁愿站在地上用 pole saw. 这两种锯我都有。"],
-    "images":["img/tree_cut.png"]}
+    "images":["img/tree_cut.png"]},
+    {"title":"车库的传动装置从墙上脱落", "contents":["【Paul 】在墙上钉块2x4, 重新装上螺丝，不就达了.【Tony 大师】加块木板, 木板俩边用膨胀螺丝固定在墙上(或找到墙内木条上螺钉), 木板中间联接传动装置。 "], "images":["img/GarageDoor.jpg"]}
   ],
   "contacts":[
-     {"title":"plumber", "contactList":[{"name":"Mark Ondras", "phone":"972-253-3355", "recommended":"Jun Zhang" },{"name":"阿昌哥", "phone":"214-906-4720", "recommended":"Wendy Huang"}] }
+     {"title":"群里DIY指导大师","contactList":[{"name":"Tony, 风云， Jun Zhang", "phone":"", "recommended":"J.W."}] },
+     {"title":"地毯","contactList":[{"name":"Curtis", "phone":"972-424-2525", "recommended":"Min Zhou"}] },
+     {"title":"Real Estate Agents","contactList":[ {"name":"Brian", "phone":"972-836-9380", "recommended":"J.W."}, {"name":"Wendy Huang", "phone":"214-796-4602", "recommended":"J.W."},{"name":"Fran Wilson", "phone":"214-563-4226","recommended":"Ping Yan"}] }, 
+     {"title":"Morgage Banker", "contactList":[{"name":"Clara", "phone":"281-520-7278","recommended":"J.W."}, {"name":"first lending", "phone":"972-818-2800", "recommended":"Yifei"} ] },
+     {"title":"plumber", "contactList":[{"name":"Mark Ondras", "phone":"972-253-3355", "recommended":"Jun Zhang" },{"name":"阿昌哥", "phone":"214-906-4720", "recommended":"Wendy Huang"}] },
+     {"title":"AC","contactList":[{"name":"Tim's Air", "phone":"972-697-7079", "recommended":"善文" },{"name":"薛飞","phone":"682-583-1898","recommended":"sujie"}, {"name":"陈师傅", "phone":"972-522-9054", "recommended":"JW"},{"name":"何晓峰", "phone":"469-563-5262", "recommended":"张小雄"}, {"name":"Hal", "phone":"469-449-8898", "recommended":"Lisa"} ] },
+     {"title":"Sprinke", "contactList":[{"name":"Bo Bay", "phone":"972-948-0906", "recommended":"书环"}] },
+     {"title":"Garage", "contactList":[{"name":"Jose", "phone":"469-878-7022","recommended":"Wendy Huang"},{"name":"劳模甲", "phone":"972-786-1398", "recommended":"?"} ] },
+     {"title":"Roofer", "contactList":[{"name":"chao", "phone":"2073211107", "recommended":"Jay Liu"},{"name":"Allen Wu", "phone":"2149230798", "recommended":"Y.H."}]}
   ]
 }
